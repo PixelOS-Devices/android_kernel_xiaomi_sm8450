@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb315942_79d76303",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-11-03T08:22:42Z",
+      "side": 1,
+      "message": "ERROR: files are incompatible: Runtime info and framework compatibility matrix are incompatible: No compatible kernel requirement found (kernel FCM version \u003d 7).\nFor kernel requirements at matrix level 7, Kernel config errors:\n    Missing config CONFIG_NET_SCH_TBF\n: Success",
+      "revId": "3b0218d33b4f02a8f195634b3bdd442dd71408b3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
